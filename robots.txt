@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /fr/404.html
+
+Sitemap: https://julien-dubuc.github.io/portfolio/sitemap.xml
