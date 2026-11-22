@@ -97,6 +97,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/vehicle-simulator/"/>
   </url>
   <url>
+    <loc>https://julien-dubuc.github.io/portfolio/projects/breakwaters/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/breakwaters/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/breakwaters/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/breakwaters/"/>
+  </url>
+  <url>
+    <loc>https://julien-dubuc.github.io/portfolio/fr/projets/breakwaters/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/breakwaters/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/breakwaters/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/breakwaters/"/>
+  </url>
+  <url>
     <loc>https://julien-dubuc.github.io/portfolio/projects/abs/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/abs/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/abs/"/>
@@ -109,6 +121,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/abs/"/>
   </url>
   <url>
+    <loc>https://julien-dubuc.github.io/portfolio/projects/logeointern/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/logeointern/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/logeointern/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/logeointern/"/>
+  </url>
+  <url>
+    <loc>https://julien-dubuc.github.io/portfolio/fr/projets/logeointern/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/logeointern/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/logeointern/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/logeointern/"/>
+  </url>
+  <url>
     <loc>https://julien-dubuc.github.io/portfolio/projects/mcc/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/mcc/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/mcc/"/>
@@ -119,18 +143,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/mcc/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/mcc/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/mcc/"/>
-  </url>
-  <url>
-    <loc>https://julien-dubuc.github.io/portfolio/projects/breakwaters/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/breakwaters/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/breakwaters/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/breakwaters/"/>
-  </url>
-  <url>
-    <loc>https://julien-dubuc.github.io/portfolio/fr/projets/breakwaters/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/breakwaters/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/breakwaters/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/breakwaters/"/>
   </url>
   <url>
     <loc>https://julien-dubuc.github.io/portfolio/projects/hexapawn/</loc>
@@ -157,15 +169,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/handy/"/>
   </url>
   <url>
-    <loc>https://julien-dubuc.github.io/portfolio/projects/logeointern/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/logeointern/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/logeointern/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/logeointern/"/>
+    <loc>https://julien-dubuc.github.io/portfolio/projects/bird-leg-inverse-kinematics/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/bird-leg-inverse-kinematics/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/bird-leg-inverse-kinematics/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/bird-leg-inverse-kinematics/"/>
   </url>
   <url>
-    <loc>https://julien-dubuc.github.io/portfolio/fr/projets/logeointern/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/logeointern/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/logeointern/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/logeointern/"/>
+    <loc>https://julien-dubuc.github.io/portfolio/fr/projets/bird-leg-inverse-kinematics/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://julien-dubuc.github.io/portfolio/projects/bird-leg-inverse-kinematics/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://julien-dubuc.github.io/portfolio/fr/projets/bird-leg-inverse-kinematics/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://julien-dubuc.github.io/portfolio/projects/bird-leg-inverse-kinematics/"/>
   </url>
 </urlset>
